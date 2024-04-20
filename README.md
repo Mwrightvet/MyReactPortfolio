@@ -1,6 +1,6 @@
-# Portfolio README
+# Melissa Wright Portfolio 
 
-This project is a portfolio created using React and Tailwind CSS.
+This project is a portfolio created using React and Tailwind CSS for Melissa Wright.
 
 ## Table of Contents
 
