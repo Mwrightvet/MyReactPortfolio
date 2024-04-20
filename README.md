@@ -1,4 +1,3 @@
-```markdown
 # Portfolio README
 
 This project is a portfolio created using React and Tailwind CSS.
