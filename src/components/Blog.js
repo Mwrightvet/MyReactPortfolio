@@ -4,7 +4,7 @@ const Blog = () => {
   const [blogs, setBlogs] = useState([]);
 
   useEffect(() => {
-    fetch("https://dev.to/api/articles?username=coderamrin")
+    fetch("#")
       .then((res) => res.json())
       .then((data) => setBlogs(data.slice(0, 2)))
       .catch((error) => console.log(error.message));

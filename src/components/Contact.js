@@ -9,14 +9,16 @@ const Contact = () => {
         </h2>
         <p>
           I am currently open for a fulltime Frontend Developer role. If you
-          want to discuss about that feel free to email me or call me.
+          want to discuss about that feel free to message me on Linkedin
         </p>
 
         <p className="py-2">
-          <span className="font-bold">Email:</span> coderamrin@gmail.com
+          <span className="font-bold">Linkedin:</span>{" "}
+          https://www.linkedin.com/in/melissa-wright-mba/
         </p>
         <p className="py-2">
-          <span className="font-bold">Phone:</span> +88 01624-890723
+          <span className="font-bold">Github Repos:</span>{" "}
+          https://github.com/Mwrightvet?tab=repositories
         </p>
       </div>
     </section>

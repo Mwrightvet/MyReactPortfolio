@@ -4,7 +4,7 @@ const BlogArchive = () => {
   const [blogs, setBlogs] = useState([]);
 
   useEffect(() => {
-    fetch("https://dev.to/api/articles?username=coderamrin")
+    fetch("#")
       .then((res) => res.json())
       .then((data) => setBlogs(data))
       .catch((error) => console.log(error.message));
