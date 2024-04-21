@@ -25,7 +25,7 @@ This project is a portfolio created using React and Tailwind CSS for Melissa Wri
 
 ## Demo/Gif
 
-- ![portfolio-hero](./src/assets/portfoliodemo.gif)
+- ![demo](./src/assets/demo.gif)
 
 ## Getting Started with Create React App
 
