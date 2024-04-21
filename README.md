@@ -1,10 +1,11 @@
-# Melissa Wright Portfolio 
+# Melissa Wright Portfolio
 
 This project is a portfolio created using React and Tailwind CSS for Melissa Wright.
 
 ## Table of Contents
 
 - [Deployed URL](#deployed-url)
+- [Screenshot](#screenshot)
 - [Demo/Gif](#demo-gif)
 - [Getting Started with Create React App](#getting-started-with-create-react-app)
   - [Available Scripts](#available-scripts)
@@ -12,16 +13,19 @@ This project is a portfolio created using React and Tailwind CSS for Melissa Wri
     - [`npm test`](#npm-test)
     - [`npm run build`](#npm-run-build)
     - [`npm run eject`](#npm-run-eject)
-  - [Credits](#credits)
-   
+- [Credits](#credits)
 
 ## Deployed URL
 
-- [Add deployed URL here]
+- [https://myreactportfolio-nezf.onrender.com/]
+
+## Screenshot
+
+![screenshot](./src/assets/screenshot.png)
 
 ## Demo/Gif
 
-- [Add demo/gif here]
+- ![portfolio-hero](./src/assets/portfoliodemo.gif)
 
 ## Getting Started with Create React App
 
@@ -56,4 +60,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Credits
 
-### - https://www.youtube.com/watch?v=i4l32fRFif0&t=13s 
+### - https://www.youtube.com/watch?v=i4l32fRFif0&t=13s
