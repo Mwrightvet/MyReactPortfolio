@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImg from "../assets/hero-img.png";
+import PortfolioImg from "../assets/portfolio-hero.gif";
 
 import {
   AiOutlineGithub,
@@ -13,7 +13,8 @@ const Hero = () => {
       <div className="container mx-auto grid md:grid-cols-2 items-center justify-center md:justify-between">
         <div className="hero-info pb-5 md:pb-0">
           <h1 className="text-4xl lg:text-6xl">
-            Hi, <br />I am <span className="text-accent">M</span>elissa <br />
+            Hi, <br />
+            My name is <span className="text-accent">M</span>elissa <br />
             Frontend Developer
           </h1>
 
@@ -55,7 +56,7 @@ const Hero = () => {
 
         <div className="hero-img">
           <img
-            src={HeroImg}
+            src={PortfolioImg}
             alt="coding illustration"
             className="lgw-[80%] ml-auto"
           />

@@ -1,8 +1,8 @@
 import React from "react";
 import weatherdashboard from "../assets/weatherdashboard.png";
-import mvcapp from "../assets/mvcapp.png";
-import getInspirred from "../assets/get-inspirred.png";
+import mvcapp from "../assets/mvcapp.gif";
 import leafletproject from "../assets/leafletproject.png";
+import dayscheduler from "../assets/Myscheduler.gif";
 
 const Projects = () => {
   const projects = [

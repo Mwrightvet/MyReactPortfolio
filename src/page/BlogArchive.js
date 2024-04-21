@@ -18,7 +18,7 @@ const BlogArchive = () => {
             Blogs
           </h2>
 
-          <p className="pb-5">Some of my best blogs.</p>
+          <p className="pb-5">Coming Soon.</p>
         </div>
 
         <div></div>
